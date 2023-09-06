@@ -34,6 +34,7 @@ Also notice how there is a little dash at the beginning
 - Kamya Patel - Senior - Computer Science - Mathematics - Management -[Github](https://github.com/kamyapatel)
 - Bryant Barrentine - Senior - Neuroscience - Computer Science - [GitHub](https://github.com/bnb0xffff)
 - Joel Garner - Senior - Computer Science - Creative Writing - [GitHub] https://github.com/joeltgarner
+- Jesus Chacon
 - Skyler Bolton - Senior - Computer Science - Accounting, Information Systems - [Github](https://github.com/SkylerBolton07)
 - Hamid Choucha -Senior- Computer Science -[GitHub],(https://github.com/hamidc10)
 - John Tompkins - Senior - Computer Science - [Github] (https://github.com/Scithur)
